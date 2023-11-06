@@ -15,7 +15,8 @@
     "@vis.gl/react-google-maps": "^0.1.2",
     "dotenv": "^16.3.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "use-places-autocomplete": "^4.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
